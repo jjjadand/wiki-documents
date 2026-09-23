@@ -921,14 +921,14 @@ The cooling capacity of the reComputer J401 carrier board is insufficient to sup
       <td>
         <a href="https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/IQD1BsWy20dpQ6-ucjqOUDqFAT4hAvTcstZkiuLG5zDv5HQ" target="_blank" rel="noopener noreferrer">Download</a>
       </td>
-      <td>bbaae572ddcfb745a9ce519ade817bf238a9cd9be8c0177bbef6ada353f89878</td>
+      <td>E456356F81144DFA1000EC3DF18D30BC</td>
     </tr>
     <tr>
       <td>Orin NX 8GB</td>
       <td>
-        <a href="https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/IQAOmjI0fvPXRKZq51PiF7vaAekVzzuOQVqNLI_81mT1PqM" target="_blank" rel="noopener noreferrer">Download</a>
+        <a href="https://seeedstudio88-my.sharepoint.com/:u:/g/personal/dayu_li_seeedstudio88_onmicrosoft_com/IQCFcg4VpxKqQ5TO_tbp2f9dAXJ_185iE1RvU3KDbuw7qX4" target="_blank" rel="noopener noreferrer">Download</a>
       </td>
-      <td>bbaae572ddcfb745a9ce519ade817bf238a9cd9be8c0177bbef6ada353f89878</td>
+      <td>E456356F81144DFA1000EC3DF18D30BC</td>
     </tr>
     <tr>
       <td>Orin Nano 8GB</td>
