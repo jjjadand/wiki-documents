@@ -226,11 +226,11 @@
     {
         "product": "j4012robotics",
         "l4t": "39.2.0",
-        "mainlink": "https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/IQDqVVHOlgc7T6b5LbNYFImdAaUr2OlKT1IkQKk2P89lCW8",
+        "mainlink": "https://seeedstudio88-my.sharepoint.com/:u:/g/personal/dayu_li_seeedstudio88_onmicrosoft_com/IQA9PyE77GhDQLTpgDmAZ8kzAdqGsOC33XuaA6i60KX2k6s",
         "mirrorlink": "https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/IQDqVVHOlgc7T6b5LbNYFImdAaUr2OlKT1IkQKk2P89lCW8",
-        "filename": "mfi_recomputer-robo-orin-nx-16g-j401-gmsl-7.2.0-39.2.0-2026-06-22.tar.gz",
+        "filename": "mfi_recomputer-robo-orin-nx-16g-j401-gmsl-7.2.0-39.2.0-2026-08-19.tar.gz",
         "foldername": "mfi_recomputer-robo-orin",
-        "sha256": "6d9086d692a0f40fad02c75df1ff56ae\nd9b368320bb2bfe3a777692513529697"
+        "sha256": "93130562F8C5EA02857C01BCB49B7626"
     },
     {
         "product": "j4011robotics",
